@@ -1,1 +1,0 @@
-message noauthenticity on discord if you want to edit or change this file in anyway and upload it, I do not care if its for personal use, if you upload it to other places please credit me for it.
